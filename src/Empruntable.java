@@ -3,7 +3,6 @@ interface Empruntable {
     void emprunter();
 }
 
-// ========== #13 MediaEmpruntable.java ==========
 // Classe abstraite qui combine Media et Empruntable
 abstract class MediaEmpruntable extends Media implements Empruntable {
 
