@@ -4,7 +4,7 @@ import java.util.Comparator;
 class TriParAnnee implements Comparator<Media> {
     @Override
     public int compare(Media m1, Media m2) {
-        // Tri par année décroissante (du plus récent au plus ancien)
+        // Tri par année décroissante
         int compareAnnee = Integer.compare(m2.getAnneePublication(), m1.getAnneePublication());
         if (compareAnnee != 0) {
             return compareAnnee;
