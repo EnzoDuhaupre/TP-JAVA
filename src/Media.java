@@ -22,7 +22,6 @@ abstract class Media {
         return anneePublication;
     }
 
-    // Méthode abstraite à redéfinir dans les classes filles
     public abstract String getDescription();
 
     // Méthode afficherDetails pour le polymorphisme
