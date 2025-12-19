@@ -1,6 +1,6 @@
 import java.util.*;
 
-// Classe pour démontrer l'utilisation des collections
+// Classe pour l'utilisation des collections
 class Collections {
 
     // Afficher les informations sur les collections
