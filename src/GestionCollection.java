@@ -1,6 +1,6 @@
 import java.util.*;
 
-// Classe pour gérer les collections (méthodes avancées)
+// Classe pour gérer les collections
 class GestionCollection {
 
     // Copier une collection dans une autre
