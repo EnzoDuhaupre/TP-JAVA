@@ -1,6 +1,6 @@
 import java.util.List;
 
-// Classe pour démontrer le polymorphisme
+// Classe pour le polymorphisme
 class Polymorphisme {
 
     // Afficher les détails de tous les médias (polymorphisme)
